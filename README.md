@@ -4,11 +4,14 @@ Based on YOLOV10, inspired by [AFMA](https://github.com/ShengtianSang/AFMA), the
 The code is based on the [mmsegmentation](https://github.com/open-mmlab/mmsegmentation?tab=readme-ov-file) 
 
 ## File declaration
-mmseg/models/decode_heads/OF_YOLOSeg.py：OF-YOLOSeg network structure file
+**mmseg/models/decode_heads/OF_YOLOSeg.py**：OF-YOLOSeg network structure file
 mmse
-mmseg/models/losses/focal_loss.py：Contains the improved loss function
-AFMA.py：Improved OFMA module
-C2fPro：Improved C2fPro module
+
+**mmseg/models/losses/focal_loss.py**：Contains the improved loss function
+
+**AFMA.py**：Improved OFMA module
+
+**C2fPro.py**：Improved C2fPro module
 
 
 ## Run the codes
