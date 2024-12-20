@@ -1,5 +1,6 @@
 # OF-YOLOSeg
-基于YOLOV10，受 [AFMA](https://github.com/ShengtianSang/AFMA) 启发改进AFMA模块提出OFMA，改进了 C2f 模块提出C2fPro。
+Based on YOLOV10, inspired by [AFMA](https://github.com/ShengtianSang/AFMA), the AFMA module is improved to propose OFMA, and the C2f module is improved to propose C2fPro.
+The code is based on the mmsegmentation library
 
 ## Run the codes
 ```bash
