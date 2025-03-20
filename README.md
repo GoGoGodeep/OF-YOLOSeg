@@ -1,4 +1,3 @@
-```
 # 🚀 OF-YOLOSeg: Enhanced Small Target Segmentation Framework
 
 **Base Model**: YOLOv10 | **Framework**: [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)  
@@ -38,7 +37,7 @@ python tools/train.py configs/of_yoloseg/of_yoloseg_r50.py
 - 显存消耗降低18%
 
 > 📌 注：需配合MMSegmentation基础环境使用，完整配置详见项目Wiki
-```
+
 
 ### 优化说明：
 1. **视觉层级**：使用🚀/🧠/📂等图标构建技术叙事流
