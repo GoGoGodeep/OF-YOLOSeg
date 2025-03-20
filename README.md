@@ -1,6 +1,6 @@
 # 🚀 OF-YOLOSeg
 
-**Base Model**: YOLOv10 
+**Base Model**: YOLOv10   
 **Framework**: [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)  
 **Inspired by**: [AFMA](https://github.com/ShengtianSang/AFMA) with architectural improvements
 
