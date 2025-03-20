@@ -1,6 +1,7 @@
-# 🚀 OF-YOLOSeg: Enhanced Small Target Segmentation Framework
+# 🚀 OF-YOLOSeg
 
-**Base Model**: YOLOv10 | **Framework**: [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)  
+**Base Model**: YOLOv10 
+**Framework**: [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)  
 **Inspired by**: [AFMA](https://github.com/ShengtianSang/AFMA) with architectural improvements
 
 ## 🧠 核心创新
